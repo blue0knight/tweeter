@@ -2,9 +2,7 @@
 
 Description:
 
-Tweeter is a Ruby on Rails app that will enable users to send and read
-short messages called "tweets". Registered users can read and post tweets,
-but those who are unregistered can only read them.
-
 Tweeter will consist of users and their associated microposts. In a way, it will
 try and be a minimalist Twitter-style application.
+
+Styling and features will be added in TweeterVer2.0
